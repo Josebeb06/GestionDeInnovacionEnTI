@@ -7,7 +7,7 @@ Este proyecto es una calculadora simple que ayuda a determinar el costo de produ
 - Compilador de C++ (por ejemplo, g++)
 - Conocimientos básicos de C++
 
-##Uso
+## Uso
 El programa solicitará los siguientes datos:
 
 - Costo de materiales por unidad
